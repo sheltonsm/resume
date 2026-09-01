@@ -3,7 +3,7 @@ Samuel Shelton
 
 #### Student, Geography and GIS Certificate at Appalachian State University 
 
-<img src= "plzwork.HEIC" width=100 />
+<img src= "Crab.jpg" width=100 />
 
 Expertise
 -- 
@@ -19,5 +19,5 @@ Professional Experience
 --
 
 
-![burger](https://personacentral.com/wp-content/uploads/2015/04/Naoto-Shirogane-P4D-Header.jpg) 
+![burger](https://images.squarespace-cdn.com/content/v1/68279651aed36c7264c683b5/e25ec64f-c0df-4c12-ae26-4f8fddde7826/Seal-Loki-__Constellation__Lynn-Shimamoto.JPEG) 
 
