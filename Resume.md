@@ -1,9 +1,11 @@
 Samuel Shelton
 =
 
-#### Student, Geography and GIS Certificate at Appalachian State University 
+### Student, Geography and [GIS Certificate at Appalachian State University](https://www.appstate.edu/academics/gradcerts/id/geographic-information-science-certificate)
 
-<img src= "Crab.jpg" width=100 />
+Sheltonsm2@appstate.edu
+
+<img src= "labrah.jpeg" width=200 />
 
 Expertise
 -- 
